@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1515090456 source:d:\sda5\user\user\dev\workspaces\codeblocks\patterns\chainofresp\main.cpp
+	<iostream>
+	<string>
+	"chainofresp.h"
+	"patternexec.h"
+
+1515091044 d:\sda5\user\user\dev\workspaces\codeblocks\patterns\chainofresp\chainofresp.h
+	<iostream>
+	<string>
+
+1515091850 d:\sda5\user\user\dev\workspaces\codeblocks\patterns\chainofresp\patternexec.h
+	<iostream>
+	<string>
+	<stdio.h>
+
